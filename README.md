@@ -1,5 +1,5 @@
 # Deep-Learning-Assignments
-This repository has 4 different assignement projects which were proposed in the IST course Deep Structured Learning (https://andre-martins.github.io/pages/deep-structured-learning-ist-fall-2019.html).
+This repository has four different assignement projects which were proposed in the IST course Deep Structured Learning (https://andre-martins.github.io/pages/deep-structured-learning-ist-fall-2019.html).
 
 ## Framework
 Python 3, PyTorch and Numpy.
