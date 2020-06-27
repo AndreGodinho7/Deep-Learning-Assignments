@@ -3,7 +3,9 @@ This repository has 4 different assignement projects which were proposed in the 
 
 ## Framework
 Python 3, PyTorch and Numpy.
+
 https://pytorch.org/
+
 https://numpy.org/
 
 ## First assignement - Optical Character Recognition (OCR) with Neural Networks
