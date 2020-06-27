@@ -1,0 +1,1 @@
+Test accuracy (cnn layer): 0.912593
